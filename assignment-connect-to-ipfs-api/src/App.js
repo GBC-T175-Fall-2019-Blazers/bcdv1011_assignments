@@ -4,7 +4,6 @@ import Toolbar from '@material-ui/core/Toolbar';
 import { BrowserRouter as Router, Route, NavLink, Switch } from "react-router-dom";
 import { makeStyles } from '@material-ui/core/styles';
 
-import IpfsUploadFile from './IpfsUploadFile';
 import IpfsFilesWrite from './IpfsFilesWrite';
 
 import logo from './logo.svg';

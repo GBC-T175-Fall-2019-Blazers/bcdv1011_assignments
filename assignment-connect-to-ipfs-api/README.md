@@ -1,10 +1,11 @@
 Readme.md
 
-# Assignments
+# Assignment
 |  |  |
 | ----------- | ----------- |
 | Program Name | Blockchain Development T175 Fall 2019 |
 | Course | DESIGN PATTERNS FOR BLOCKCHAIN - BCDV 1011 - 100 |
+| Assignment: | Connect to IPFS API |
 
 # Group Information
 | Student ID | Name |
